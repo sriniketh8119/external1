@@ -1,0 +1,13 @@
+{
+    "name": "nodejs-jenkins-demo",
+    "version": "1.0.0",
+    "description": "Node.js project for CI/CD demonstration",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests defined\" && exit 0"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {}
+}
